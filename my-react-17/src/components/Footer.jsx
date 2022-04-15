@@ -5,6 +5,7 @@ const Footer = () => {
     <div>
       Footer
       <h1>Footerni ishlatish</h1>
+      <h1>react footer</h1>
     </div>
   );
 };
